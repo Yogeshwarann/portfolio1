@@ -21,12 +21,12 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Vinayak, a website developer with a passion for creating custom online experiences for my clients. With a skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
+            Hi there! I'm Yogeshwaran, a website developer with a passion for creating custom online experiences for my clients. With a skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
           </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            But my services go beyond just custom development - I'm also proficient in using CMS systems like WordPress and Shopify, making it easy for my clients to take control of their own websites and keep them up to date.</p>
+            </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
@@ -37,14 +37,7 @@ export function About() {
         </ScrollAnimation>
         <div className="hard-skills">
           <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
-              <img src={wordpress} alt="Wordpress" />
-            </ScrollAnimation>
-          </div>
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.12 * 1000}>
-              <img src={shopify} alt="shopify" />
-            </ScrollAnimation>
+            
           </div>
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.13 * 1000}>
@@ -56,11 +49,7 @@ export function About() {
               <img src={typescriptIcon} alt="Typescript" />
             </ScrollAnimation>
           </div>
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.15 * 1000}>
-              <img src={vueIcon} alt="Vue" />
-            </ScrollAnimation>
-          </div>
+          
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.16 * 1000}>
               <img src={nodeIcon} alt="Node" />

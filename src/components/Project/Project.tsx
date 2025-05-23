@@ -16,17 +16,17 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"> <title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Serverless-Voting-Application" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Yogeshwarann/hotelbookings" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /></a>
-                <a href="https://vote.vinayaksingh.com" target="_blank" rel="noreferrer">
+                <a href="https://hotelbookings.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a> </div>
             </header>
             <div className="body">
-              <h3>Serverless Voting Application for Programming Languages</h3>
-              <p> Developed a serverless voting app using React, AWS Lambda, API Gateway, and DynamoDB, enabling users to view programming languages, cast votes, and access details through an interactive UI, leveraging serverless architecture for scalability and cost-efficiency. </p>
+              <h3>Hotel Booking website</h3>
+              <p> Our hotel booking website offers a seamless, secure experience with user-friendly navigation, real-time availability, and competitive pricing. Featuring detailed hotel descriptions, customer reviews, and advanced search filters, users can easily find and book the perfect accommodations, ensuring a hassle-free booking process for both leisure and business travelers. </p>
             </div>
-            <footer> <ul className="tech-list"> <li>AWS Lambda</li> <li>API Gateway</li> <li>DynamoDB</li> </ul> </footer>
+            <footer> <ul className="tech-list"> <li>React JS</li> <li>API Gateway</li> <li>MongoDB</li> </ul> </footer>
           </div>
         </ScrollAnimation>
 
@@ -35,29 +35,29 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/AI-Chatbot-Assistant" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Yogeshwarann/ecom" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
+                <a href="https://ecom-rho-two.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
+              <h3>Retail shopping website </h3>
               <p>
-                Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
+              Welcome to our retail shop's website! Discover a diverse range of products tailored to meet all your needs. Enjoy seamless shopping, exclusive deals, and exceptional customer service. From everyday essentials to unique finds, we have it all. Experience convenience and quality, all in one place. Shop now!
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>Streamlit</li>
-                <li>PyPDF2</li>
-                <li>LangChain</li>
+                <li>React JS</li>
+                <li>FireBaseDB</li>
+                <li>API Gateway</li>
               </ul>
             </footer>
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
+         <ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round">
@@ -65,31 +65,31 @@ export function Project() {
                 <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
               </svg>
               <div className="project-links">
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/tree/main/Credit%20Risk%20Analysis" target="\_blank" rel="noreferrer">
+                <a href="https://github.com/Yogeshwarann/Consultancy-Project" target="\_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" />
                 </a>
-                <a href="https://github.com/CodeVinayak/Jupyter-Notebook/blob/main/Credit%20Risk%20Analysis/Credit_Risk_Analysis.ipynb" target="\_blank" rel="noreferrer">
+                <a href="https://consultancy-project-chi.vercel.app/" target="\_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" />
                 </a>
               </div>
             </header>
             <div className="body">
-              <h3>Credit Risk Analysis Project</h3>
+              <h3>Electrical website E-commerce site</h3>
               <p>
-                Developed a highly accurate credit risk classification model using XGBoost, achieving 100% precision, recall, and F1-scores for predicting loan defaults.Implemented rigorous data preprocessing, feature engineering, and hyperparameter tuning on imbalanced credit risk data, employing ensemble methods, cross-validation, and model interpretation techniques.
+              The Electrical E-Commerce website, built with React.js, offers a user-friendly platform to browse and purchase electrical products. It features dynamic product listings, secure checkout, and responsive design for optimal user experience.
               </p>
             </div>
             <footer>
               <ul className="tech-list">
-                <li>XGBoost</li>
-                <li>Pandas</li>
-                <li>Matplotlib</li>
+                <li>ReactJS</li>
+                <li>MongoDB</li>
+                <li></li>
               </ul>
             </footer>
           </div>
         </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
+        {/*<ScrollAnimation animateIn="flipInX">
           <div className="project">
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " stroke-width="1" stroke-linecap="round" stroke-linejoin="round" ><title>Folder</title><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
@@ -172,7 +172,7 @@ export function Project() {
               </ul>
             </footer>
           </div>
-        </ScrollAnimation>
+        </ScrollAnimation> */}
 
         {/* <ScrollAnimation animateIn="flipInX">
           <div className="project">
